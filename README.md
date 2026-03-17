@@ -70,5 +70,10 @@ This project demonstrates the ability to perform structured exploratory data ana
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 📌 Disclaimer
+This project is developed for educational purposes. The predictions and results may not be suitable for real-world applications without further validation, tuning, and deployment-level improvements.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Author: Ps-analyticshub  
 Role: Data Analyst / Data Science Aspirant
